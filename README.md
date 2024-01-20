@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sagar H P</h1>
+<h1 align="center">Hi 👋, I am  Sagar H P</h1>
 <h3 align="center">Motivated and dedicated Java Developer with strong foundation in programming principles. Skilled in Java and RReact js. Passionate about creating efficient and reliable applications. Strong problem solving and team work Abilities. Eager to contribute to software development projects.</h3>
 
 
