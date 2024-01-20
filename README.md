@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Spring Boot, Angular js and AWS**
+- 🌱 I’m currently learning **Spring Boot, Angular js DevOps and AWS**
 
 - 💬 Ask me about **Java,DSA, Advance java,JavaScript,Spring and Docker**
 
